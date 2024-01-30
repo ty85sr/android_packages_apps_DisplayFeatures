@@ -20,7 +20,7 @@ ROM Frontend for display features such as HBM and DC Dimming.
 ** 1) Clone this repository to the specified directory
 
 #+BEGIN_SRC shell
-git clone https://github.com/cyberknight777/android_packages_apps_DisplayFeatures packages/apps/DisplayFeatures
+git clone https://github.com/ty85sr/android_packages_apps_DisplayFeatures packages/apps/DisplayFeatures
 #+END_SRC
 
 ** 2) Adapt the following commit for your device and build it as it is :)
